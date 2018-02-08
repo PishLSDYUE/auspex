@@ -1,5 +1,5 @@
-extern crate lib;
+extern crate auspex;
 
 fn main() {
-  println!("Hello world!")
+
 }
